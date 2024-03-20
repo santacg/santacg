@@ -1,10 +1,8 @@
-# Hello, I'm Carlos García Santa
-
-Welcome to my GitHub! I'm a Computer Science student at Universidad Autónoma de Madrid
+# Welcome to my GitHub!
 
 ## 💻 About Me
 
-As someone who is exploring the vast field of Computer Science, I've developed a keen interest in both software and hardware aspects. 
+Hello, I'm Carlos, a Computer Science student at Universidad Autónoma de Madrid with a keen fascination at the intersection of software and hardware. My interest is particularly piqued by the potential of low-level programming to create powerful interactions between software and physical devices. 
 
 ## 🚀 Programming Languages
 
@@ -22,7 +20,7 @@ As someone who is exploring the vast field of Computer Science, I've developed a
 Here are some of the technologies and tools I've been working with:
 
 **Containerization & Virtualization**: Proficient in creating and managing containerized applications.  
-![Docker](https://img.shields.io/badge/-Docker-555555?style=for-the-badge&logo=docker&logoColor=#2496ED)
+![Docker](https://img.shields.io/badge/-Docker-555555?style=for-the-badge&logo=docker&logoColor=#2496ED) ![VMware](https://img.shields.io/badge/-VMware-555555?style=for-the-badge&logo=vmware&logoColor=#621773)
 
 **Version Control**: Experienced in using Git for version control, enabling me to manage code changes and collaborate with others effectively.  
 ![Git](https://img.shields.io/badge/-Git-555555?style=for-the-badge&logo=git&logoColor=#F05032)
