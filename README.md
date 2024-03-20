@@ -15,6 +15,7 @@ Hello, I'm Carlos García Santa, a Computer Science student at Universidad Autó
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=#1572B6)
 ![Assembly](https://img.shields.io/badge/-Assembly-4B0082?style=for-the-badge&logo=generic&logoColor=white)
 ![VHDL](https://img.shields.io/badge/-VHDL-8B00FF?style=for-the-badge&logo=generic&logoColor=white)
+![R](https://img.shields.io/badge/-R-8B00FF?style=for-the-badge&logo=r&logoColor=#276DC3)
 
 ## 🛠 Technologies and Tools
 
