@@ -7,8 +7,7 @@ Welcome to my GitHub! I'm a Computer Science student at Universidad Autónoma de
 As someone who is exploring the vast field of Computer Science, I've developed a keen interest in both software and hardware aspects. 
 
 ## 🚀 Programming Languages
-
-<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="30" height="30" alt="Python Logo"/> ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<i class="fa-solid fa-database"></i>
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=blue)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
