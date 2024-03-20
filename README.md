@@ -23,9 +23,9 @@ As someone who is exploring the vast field of Computer Science, I've developed a
 Here are some of the technologies and tools I've been working with:
 
 **Containerization & Virtualization**: Proficient in creating and managing containerized applications.  
-<table>
-  <tr>Docker</tr>
-</table>
+<ul>
+  <li>Docker</li>
+</ul>
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" width="75" />
 
 **Version Control**: Experienced in using Git for version control, enabling me to manage code changes and collaborate with others effectively.  
