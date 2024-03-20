@@ -8,12 +8,12 @@ As someone who is exploring the vast field of Computer Science, I've developed a
 
 ## 🚀 Programming Languages
 
-![C](https://img.shields.io/badge/-C-555555?style=for-the-badge&logo=c&logoColor=blue)
-![Python](https://img.shields.io/badge/-Python-ffd343?style=for-the-badge&logo=python&logoColor=blue)
-![SQL](https://img.shields.io/badge/-SQL-f29111?style=for-the-badge&logo=sql&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-f89820?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-ff5722?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/-C-555555?style=for-the-badge&logo=c&logoColor=#A8B9CC)
+![Python](https://img.shields.io/badge/-Python-ffd343?style=for-the-badge&logo=python&logoColor=#3776AB)
+![SQL](https://img.shields.io/badge/-SQL-f29111?style=for-the-badge&logo=sql&logoColor=#4169E1)
+![Java](https://img.shields.io/badge/-Java-f89820?style=for-the-badge&logo=java&logoColor=#F80000)
+![HTML5](https://img.shields.io/badge/-HTML5-ff5722?style=for-the-badge&logo=html5&logoColor=#E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=#1572B6)
 ![Assembly](https://img.shields.io/badge/-Assembly-4B0082?style=for-the-badge&logo=generic&logoColor=white)
 ![VHDL](https://img.shields.io/badge/-VHDL-8B00FF?style=for-the-badge&logo=generic&logoColor=white)
 
