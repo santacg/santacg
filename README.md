@@ -6,15 +6,17 @@ Hello, I'm Carlos García Santa, a Computer Science student at Universidad Autó
 
 ## 🚀 Programming Languages
 
+My GitHub showcases proficiency in a spectrum of programming languages crucial for diverse applications. From foundational languages like C and C++ for low-level interactions in which I have the most experience, to high-level ones like Python and Java for versatile development, each language represents a toolset for solving specific challenges. SQL empowers me in managing databases efficiently, while Assembly and VHDL enable direct hardware manipulation. In addition, R aids in statistical analysis, enhancing my ability to extract insights from data. These languages collectively illustrate my comprehensive skill set and readiness to tackle various programming tasks and projects.
+
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=#00599C)
 ![Python](https://img.shields.io/badge/-Python-ffd343?style=for-the-badge&logo=python&logoColor=#3776AB)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=sql&logoColor=#4169E1)
-![Java](https://img.shields.io/badge/-Java-F80000?style=for-the-badge&logo=java&logoColor=#F80000)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=#4169E1)
+![Java](https://img.shields.io/badge/-Java-F80000?style=for-the-badge&logo=oracle&logoColor=#F80000)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=#1572B6)
-![Assembly](https://img.shields.io/badge/-Assembly-4B0082?style=for-the-badge&logo=generic&logoColor=white)
-![VHDL](https://img.shields.io/badge/-VHDL-8B00FF?style=for-the-badge&logo=generic&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-4B0082?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![VHDL](https://img.shields.io/badge/-VHDL-8B00FF?style=for-the-badge&logo=v&logoColor=white)
 ![R](https://img.shields.io/badge/-R-8B00FF?style=for-the-badge&logo=r&logoColor=#276DC3)
 
 ## 🛠 Technologies and Tools
