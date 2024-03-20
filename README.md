@@ -7,7 +7,7 @@ Hello, I'm Carlos, a Computer Science student at Universidad Autónoma de Madrid
 ## 🚀 Programming Languages
 
 ![C](https://img.shields.io/badge/-C-555555?style=for-the-badge&logo=c&logoColor=#A8B9CC)
-![C++](https://img.shields.io/badge/-C++-af1922?style=for-the-badge&logo=C++&logoColor=#00599C)
+![C++](https://img.shields.io/badge/-C++-555555?style=for-the-badge&logo=cplusplus&logoColor=#00599C)
 ![Python](https://img.shields.io/badge/-Python-ffd343?style=for-the-badge&logo=python&logoColor=#3776AB)
 ![SQL](https://img.shields.io/badge/-SQL-f29111?style=for-the-badge&logo=sql&logoColor=#4169E1)
 ![Java](https://img.shields.io/badge/-Java-f89820?style=for-the-badge&logo=java&logoColor=#F80000)
