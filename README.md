@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a Computer Science student at Universidad Autónoma de
 
 As someone who is exploring the vast field of Computer Science, I've developed a keen interest in both software and hardware aspects. 
 
-### 🚀 Programming Languages
+## 🚀 Programming Languages
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
