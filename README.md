@@ -7,7 +7,6 @@ Welcome to my GitHub! I'm a Computer Science student at Universidad Autónoma de
 As someone who is exploring the vast field of Computer Science, I've developed a keen interest in both software and hardware aspects. 
 
 ## 🚀 Programming Languages
-<i class="fa-solid fa-database"></i>
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=blue)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
@@ -15,8 +14,8 @@ As someone who is exploring the vast field of Computer Science, I've developed a
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-00599C?style=for-the-badge&logo=generic&logoColor=white)
-![VHDL](https://img.shields.io/badge/-VHDL-00599C?style=for-the-badge&logo=generic&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly-00599C?style=for-the-badge&logo=generic&logoColor=black)
+![VHDL](https://img.shields.io/badge/-VHDL-00599C?style=for-the-badge&logo=generic&logoColor=black)
 
 ## 🛠 Technologies and Tools
 
