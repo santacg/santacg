@@ -22,37 +22,33 @@ As someone who is exploring the vast field of Computer Science, I've developed a
 
 Here are some of the technologies and tools I've been working with:
 
-**Containerization & Virtualization**: Proficient in creating and managing containerized applications.  
-<ul>
-  <li>Docker</li>
-</ul>
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" width="75" />
+## 🛠 Technologies and Tools
 
-**Version Control**: Experienced in using Git for version control, enabling me to manage code changes and collaborate with others effectively.  
-<ul>
-  <li>Git</li>
-</ul>
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" width="75" />
+Throughout my journey in Computer Science, I've had the opportunity to work with a variety of technologies and tools. Here's a selection that showcases my toolkit:
 
-**Operating Systems**: Comfortable working with various Linux distributions for both personal and academic projects.  
-<ul>
-  <li>Linux</li>
-</ul>
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" width="75" />
+**Containerization & Virtualization**: Proficient in creating and managing containerized applications.<br>
+<img src="https://img.shields.io/badge/-Docker-AAAAAA?style=flat-square&logo=docker&logoColor=white" width="120">
 
-**Cloud Computing**: Gained practical experience with cloud services, particularly AWS, for hosting and managing applications and databases.  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+**Version Control**: Experienced in using Git for version control, enabling me to manage code changes and collaborate with others effectively.<br>
+<img src="https://img.shields.io/badge/-Git-AAAAAA?style=flat-square&logo=git&logoColor=white" width="120">
 
-**Databases**: Skilled in both SQL and NoSQL databases.  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)  
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
-![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+**Operating Systems**: Comfortable working with various Linux distributions for both personal and academic projects.<br>
+<img src="https://img.shields.io/badge/-Linux-AAAAAA?style=flat-square&logo=linux&logoColor=black" width="120">
 
-**Editors**: Proficient in using Vim for efficient code editing and Visual Studio Code for a more integrated development environment experience.  
-![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)  
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+**Cloud Computing**: Gained practical experience with cloud services, particularly AWS, for hosting and managing applications and databases.<br>
+<img src="https://img.shields.io/badge/-AWS-AAAAAA?style=flat-square&logo=amazonaws&logoColor=white" width="120">
 
+**Databases**: Skilled in both SQL and NoSQL databases.<br>
+<img src="https://img.shields.io/badge/-PostgreSQL-AAAAAA?style=flat-square&logo=postgresql&logoColor=white" width="120"><br>
+<img src="https://img.shields.io/badge/-Redis-AAAAAA?style=flat-square&logo=redis&logoColor=white" width="120"><br>
+<img src="https://img.shields.io/badge/-MongoDB-AAAAAA?style=flat-square&logo=mongodb&logoColor=white" width="120"><br>
+<img src="https://img.shields.io/badge/-Neo4j-AAAAAA?style=flat-square&logo=neo4j&logoColor=white" width="120">
+
+**Editors**: Proficient in using Vim for efficient code editing and Visual Studio Code for a more integrated development environment experience.<br>
+<img src="https://img.shields.io/badge/-Vim-AAAAAA?style=flat-square&logo=vim&logoColor=white" width="120"><br>
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-AAAAAA?style=flat-square&logo=visualstudiocode&logoColor=white" width="120">
+
+Each tool and technology I've worked with has contributed to my understanding of the vast landscape of computer science, from development to deployment and beyond.
 
 
 ## 📊 GitHub Stats
