@@ -1,10 +1,10 @@
 # Hello, I'm Carlos García Santa
 
-Welcome to my GitHub! I'm a Computer Engineering student at Universidad Autónoma de Madrid
+Welcome to my GitHub! I'm a Computer Science student at Universidad Autónoma de Madrid
 
 ## 💻 About Me
 
-As someone who is exploring the vast field of Computer Engineering, I've developed a keen interest in both software and hardware aspects. My programming skills are primarily in:
+As someone who is exploring the vast field of Computer Science, I've developed a keen interest in both software and hardware aspects. My programming skills are primarily in:
 
 - C
 - Python
@@ -15,12 +15,8 @@ As someone who is exploring the vast field of Computer Engineering, I've develop
 - ASM (Assembly)
 - VHDL
 
-I'm fascinated by the challenge of understanding complex systems and the satisfaction that comes with solving problems through code and design. My academic journey is not just about learning languages; it's about understanding the principles that make our digital world function.
-
 - 🌱 I'm currently learning more about computer architecture, database management, and web development.
-- 💬 Ask me about anything related to the languages I'm learning or the projects I'm dreaming up.
-- 📫 How to reach me: (your email address or another contact method)
-
+- 
 ## 🛠 Technologies and Tools
 
 Here are some of the technologies and tools I've been working with:
