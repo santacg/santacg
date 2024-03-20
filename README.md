@@ -17,7 +17,6 @@ As someone who is exploring the vast field of Computer Science, I've developed a
 ![Assembly](https://img.shields.io/badge/-Assembly-4B0082?style=for-the-badge&logo=generic&logoColor=white)
 ![VHDL](https://img.shields.io/badge/-VHDL-8B00FF?style=for-the-badge&logo=generic&logoColor=white)
 
-
 ## 🛠 Technologies and Tools
 
 Here are some of the technologies and tools I've been working with:
