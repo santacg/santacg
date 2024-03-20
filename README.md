@@ -46,7 +46,7 @@ Here are some of the technologies and tools I've been working with:
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](your-LinkedIn-link)
+- [LinkedIn](https://www.linkedin.com/verify/identity/persona/start/?entryPoint=selfview_topcard&platform=DESKTOP&referrer=verify_hub)
 
 I'm always open to interesting conversations and opportunities to collaborate on academic projects or just to learn together. Feel free to reach out!
 
