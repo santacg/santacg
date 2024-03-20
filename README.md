@@ -8,7 +8,7 @@ As someone who is exploring the vast field of Computer Science, I've developed a
 
 ## 🚀 Programming Languages
 
-![C](https://img.shields.io/badge/-C-555555?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/-C-555555?style=for-the-badge&logo=c&logoColor=blue)
 ![Python](https://img.shields.io/badge/-Python-ffd343?style=for-the-badge&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/-SQL-f29111?style=for-the-badge&logo=sql&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-f89820?style=for-the-badge&logo=java&logoColor=white)
