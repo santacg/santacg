@@ -32,7 +32,7 @@ Here are some of the technologies and tools I've been working with:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=santacg&show_icons=true&theme=radical)
 
 > Don't forget to replace `your-username` with your GitHub username in the link to the stats so that it displays correctly.
 
