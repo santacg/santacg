@@ -12,7 +12,7 @@ Hello, I'm Carlos, a Computer Science student at Universidad Autónoma de Madrid
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=sql&logoColor=#4169E1)
 ![Java](https://img.shields.io/badge/-Java-F80000?style=for-the-badge&logo=java&logoColor=#F80000)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-1572B6-1572B6?style=for-the-badge&logo=css3&logoColor=#1572B6)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=#1572B6)
 ![Assembly](https://img.shields.io/badge/-Assembly-4B0082?style=for-the-badge&logo=generic&logoColor=white)
 ![VHDL](https://img.shields.io/badge/-VHDL-8B00FF?style=for-the-badge&logo=generic&logoColor=white)
 
