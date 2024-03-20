@@ -29,9 +29,15 @@ Here are some of the technologies and tools I've been working with:
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" width="75" />
 
 **Version Control**: Experienced in using Git for version control, enabling me to manage code changes and collaborate with others effectively.  
+<ul>
+  <li>Git</li>
+</ul>
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" width="75" />
 
 **Operating Systems**: Comfortable working with various Linux distributions for both personal and academic projects.  
+<ul>
+  <li>Linux</li>
+</ul>
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" width="75" />
 
 **Cloud Computing**: Gained practical experience with cloud services, particularly AWS, for hosting and managing applications and databases.  
