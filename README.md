@@ -22,30 +22,23 @@ As someone who is exploring the vast field of Computer Science, I've developed a
 
 Here are some of the technologies and tools I've been working with:
 
-## 🛠 Technologies and Tools
-
-Throughout my journey in Computer Science, I've had the opportunity to work with a variety of technologies and tools. Here's a selection that showcases my toolkit:
-
-
 **Containerization & Virtualization**: Proficient in creating and managing containerized applications.  
-<img src="https://img.shields.io/badge/-Docker-AAAAAA?style=flat-square&logo=docker&logoColor=white" width="80" />
+![Docker](https://img.shields.io/badge/-Docker-AAAAAA?style=flat-square&logo=docker&logoColor=white)
 
 **Version Control**: Experienced in using Git for version control, enabling me to manage code changes and collaborate with others effectively.  
-<img src="https://img.shields.io/badge/-Git-AAAAAA?style=flat-square&logo=git&logoColor=white" width="80" />
+![Git](https://img.shields.io/badge/-Git-AAAAAA?style=flat-square&logo=git&logoColor=white)
 
 **Operating Systems**: Comfortable working with various Linux distributions for both personal and academic projects.  
-<img src="https://img.shields.io/badge/-Linux-AAAAAA?style=flat-square&logo=linux&logoColor=black" width="80" />
+![Linux](https://img.shields.io/badge/-Linux-AAAAAA?style=flat-square&logo=linux&logoColor=black)
 
 **Cloud Computing**: Gained practical experience with cloud services, particularly AWS, for hosting and managing applications and databases.  
-<img src="https://img.shields.io/badge/-AWS-AAAAAA?style=flat-square&logo=amazonaws&logoColor=white" width="80" />
+![AWS](https://img.shields.io/badge/-AWS-AAAAAA?style=flat-square&logo=amazonaws&logoColor=white)
 
 **Databases**: Skilled in both SQL and NoSQL databases.  
-<img src="https://img.shields.io/badge/-PostgreSQL-AAAAAA?style=flat-square&logo=postgresql&logoColor=white" width="80" /> <img src="https://img.shields.io/badge/-Redis-AAAAAA?style=flat-square&logo=redis&logoColor=white" width="80" /> <img src="https://img.shields.io/badge/-MongoDB-AAAAAA?style=flat-square&logo=mongodb&logoColor=white" width="80" /> <img src="https://img.shields.io/badge/-Neo4j-AAAAAA?style=flat-square&logo=neo4j&logoColor=white" width="80" />
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-AAAAAA?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-AAAAAA?style=flat-square&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-AAAAAA?style=flat-square&logo=mongodb&logoColor=white) ![Neo4j](https://img.shields.io/badge/-Neo4j-AAAAAA?style=flat-square&logo=neo4j&logoColor=white)
 
 **Editors**: Proficient in using Vim for efficient code editing and Visual Studio Code for a more integrated development environment experience.  
-<img src="https://img.shields.io/badge/-Vim-AAAAAA?style=flat-square&logo=vim&logoColor=white" width="80" /> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-AAAAAA?style=flat-square&logo=visualstudiocode&logoColor=white" width="80" />
-
-Each tool and technology I've worked with has contributed to my understanding of the vast landscape of computer science, from development to deployment and beyond.
+![Vim](https://img.shields.io/badge/-Vim-AAAAAA?style=flat-square&logo=vim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-AAAAAA?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 
 ## 📊 GitHub Stats
