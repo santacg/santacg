@@ -1,6 +1,6 @@
 # Hello, I'm Carlos García Santa
 
-Welcome to my GitHub corner! I'm a Computer Engineering student at Universidad Autónoma de Madrid
+Welcome to my GitHub! I'm a Computer Engineering student at Universidad Autónoma de Madrid
 
 ## 💻 About Me
 
