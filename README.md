@@ -20,6 +20,10 @@ As someone who is exploring the vast field of Computer Science, I've developed a
 
 ## 🛠 Technologies and Tools
 
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" width="100" />
+
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" width="50" />
+
 Here are some of the technologies and tools I've been working with:
 
 **Containerization & Virtualization**: Proficient in creating and managing containerized applications.  
