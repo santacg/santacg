@@ -1,6 +1,6 @@
 # Hello, I'm Carlos García Santa
 
-Welcome to my GitHub corner! I'm a Computer Engineering student at Universidad Autónoma de Madrid, where I dive deep into the world of technology, focusing on software development and hardware design. Even though I'm still in the learning phase, I'm passionate about understanding how things work from the ground up, which drives my interest in programming and hardware description languages.
+Welcome to my GitHub corner! I'm a Computer Engineering student at Universidad Autónoma de Madrid
 
 ## 💻 About Me
 
