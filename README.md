@@ -4,6 +4,9 @@
 
 Hello, I'm Carlos García Santa, a Computer Science student at Universidad Autónoma de Madrid with a keen fascination at the intersection of software and hardware. My interest is particularly piqued by the potential of low-level programming to create powerful interactions between software and physical devices. 
 
+![SPANISH](https://img.shields.io/badge/Spanish-lightred?label=Native)
+![ENGLISH](https://img.shields.io/badge/English-lightblue?label=C1)
+
 ## 🚀 Programming Languages
 
 My GitHub showcases proficiency in a spectrum of programming languages crucial for diverse applications. From foundational languages like C and C++ for low-level interactions in which I have the most experience, to high-level ones like Python and Java for versatile development, each language represents a toolset for solving specific challenges. SQL empowers me in managing databases efficiently, while Assembly and VHDL enable direct hardware manipulation. In addition, R aids in statistical analysis, enhancing my ability to extract insights from data. These languages collectively illustrate my comprehensive skill set and readiness to tackle various programming tasks and projects.
