@@ -4,8 +4,9 @@
 
 Hello, I'm Carlos García Santa, a Computer Science student at Universidad Autónoma de Madrid with a keen fascination at the intersection of software and hardware. My interest is particularly piqued by the potential of low-level programming to create powerful interactions between software and physical devices. 
 
-![SPANISH](https://img.shields.io/badge/Spanish-lightred?label=Native)
+![SPANISH](https://img.shields.io/badge/Spanish-red?label=Native)
 ![ENGLISH](https://img.shields.io/badge/English-lightblue?label=C1)
+![FRENCH](https://img.shields.io/badge/French-green?label=B1)
 
 ## 🚀 Programming Languages
 
