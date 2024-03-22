@@ -19,7 +19,7 @@ My GitHub showcases proficiency in a spectrum of programming languages crucial f
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=#1572B6)
 ![Assembly](https://img.shields.io/badge/-Assembly-4B0082?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![VHDL](https://img.shields.io/badge/-VHDL-8B00FF?style=for-the-badge&logo=v&logoColor=white)
+![VHDL](https://img.shields.io/badge/-VHDL-028A0F?style=for-the-badge&logo=v&logoColor=white)
 ![R](https://img.shields.io/badge/-R-8B00FF?style=for-the-badge&logo=r&logoColor=#276DC3)
 
 ## 🛠 Technologies and Tools
