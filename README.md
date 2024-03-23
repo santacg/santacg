@@ -6,7 +6,7 @@ Hello, I'm Carlos García Santa, a Computer Science student at Universidad Autó
 
 ![SPANISH](https://img.shields.io/badge/Spanish-red?label=Native)
 ![ENGLISH](https://img.shields.io/badge/English-lightblue?label=C1)
-![FRENCH](https://img.shields.io/badge/French-green?label=B1)
+![FRENCH](https://img.shields.io/badge/French-green?label=A2)
 
 ## 🚀 Programming Languages
 
