@@ -54,7 +54,7 @@ Here are some of the technologies and tools I've been working with:
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/verify/identity/persona/start/?entryPoint=selfview_topcard&platform=DESKTOP&referrer=verify_hub)
+- [LinkedIn](https://www.linkedin.com/in/carlos-garcia-santa-b6478a2a3/)
 - Email: garciasantacarlos@gmail.com
 
 I'm always open to interesting conversations and opportunities to collaborate on academic projects or job/interships oportunities. Feel free to reach out!
