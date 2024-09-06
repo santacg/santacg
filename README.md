@@ -48,7 +48,8 @@ Here are some of the technologies and tools I've been working with:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=santacg&show_icons=true&theme=radical).
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=santacg&show_icons=true&theme=gruvbox).
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact)
 
 
 ## 🌐 Connect with Me
