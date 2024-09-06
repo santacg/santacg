@@ -2,7 +2,7 @@
 
 ## 💻 About Me
 
-Hello, I'm Carlos García Santa, a Computer Science student at Universidad Autónoma de Madrid with a keen fascination at the intersection of software and hardware. My interest is particularly piqued by the potential of low-level programming to create powerful interactions between software and physical devices. 
+Hello, I'm Carlos García Santa, a Computer Science student passionate about the vast world of technology. My interests span from software development to hardware interactions, where I enjoy exploring how both fields converge to create innovative solutions.
 
 ![SPANISH](https://img.shields.io/badge/Spanish-red?label=Native)
 ![ENGLISH](https://img.shields.io/badge/English-lightblue?label=C1)
@@ -10,7 +10,7 @@ Hello, I'm Carlos García Santa, a Computer Science student at Universidad Autó
 
 ## 🚀 Programming Languages
 
-My GitHub showcases proficiency in a spectrum of programming languages crucial for diverse applications. From foundational languages like C and C++ for low-level interactions in which I have the most experience, to high-level ones like Python and Java for versatile development, each language represents a toolset for solving specific challenges. SQL empowers me in managing databases efficiently, while Assembly and VHDL enable direct hardware manipulation. In addition, R aids in statistical analysis, enhancing my ability to extract insights from data. These languages collectively illustrate my comprehensive skill set and readiness to tackle various programming tasks and projects.
+I have experience with a wide range of programming languages, each offering unique capabilities for different types of projects. From low-level programming with C and C++ for projects where efficiency or hardware interaction is needed to high-level languages like Python and Java for versatile application development.
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=#00599C)
@@ -36,7 +36,7 @@ Here are some of the technologies and tools I've been working with:
 **Operating Systems**: Comfortable working with various Linux distributions for both personal and academic projects.  
 ![Linux](https://img.shields.io/badge/-Linux-555555?style=for-the-badge&logo=linux&logoColor=#FCC624)
 
-**Cloud Computing**: Gained practical experience with cloud services, particularly AWS, for hosting and managing applications and databases.  
+**Cloud Computing**: Gained practical experience with cloud services for hosting and managing applications and databases.  
 ![AWS](https://img.shields.io/badge/-AWS-555555?style=for-the-badge&logo=amazonaws&logoColor=#232F3E)
 
 **Databases**: Skilled in both SQL and NoSQL databases.  
