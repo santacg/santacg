@@ -56,5 +56,3 @@ Here are some of the technologies and tools I've been working with:
 - Email: garciasantacarlos@gmail.com
 
 I'm always open to interesting conversations and opportunities to collaborate on academic projects or job/interships oportunities. Feel free to reach out!
-
-Thanks for visiting my profile!
