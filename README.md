@@ -2,7 +2,7 @@
 
 ## 💻 About Me
 
-Hello, I'm Carlos García Santa, a Computer Science student passionate about the vast world of technology. My interests span from software development to hardware design.
+Hello, I'm Carlos García Santa, a Computer Science student.
 
 ![SPANISH](https://img.shields.io/badge/Spanish-red?label=Native)
 ![ENGLISH](https://img.shields.io/badge/English-lightblue?label=C1)
