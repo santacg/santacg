@@ -2,7 +2,7 @@
 
 ## 💻 About Me
 
-Hello, I'm Carlos García Santa, a Computer Science student.
+Hello, I'm Carlos García Santa, Computer Scienctist.
 
 ![SPANISH](https://img.shields.io/badge/Spanish-red?label=Native)
 ![ENGLISH](https://img.shields.io/badge/English-lightblue?label=C1)
